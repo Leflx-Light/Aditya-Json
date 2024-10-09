@@ -1,0 +1,82 @@
+{
+    "CLASS": {
+        "STUDENT1": {
+            "NAME": "Alice",
+            "SUBJECTS": {
+                "SUB1": {
+                    "NAME": "MATH",
+                    "MARKS": "89"
+                },
+                "SUB2": {
+                    "NAME": "ENGLISH",
+                    "MARKS": "79"
+                }
+            }
+        },
+        "STUDENT2": {
+            "NAME": "Bob",
+            "SUBJECTS": {
+                "SUB1": {
+                    "NAME": "MATH",
+                    "MARKS": "88"
+                },
+                "SUB2": {
+                    "NAME": "ENGLISH",
+                    "MARKS": "78"
+                }
+            }
+        },
+        "STUDENT3": {
+            "NAME": "Charlie",
+            "SUBJECTS": {
+                "SUB1": {
+                    "NAME": "MATH",
+                    "MARKS": "92"
+                },
+                "SUB2": {
+                    "NAME": "ENGLISH",
+                    "MARKS": "85"
+                }
+            }
+        },
+        "STUDENT4": {
+            "NAME": "David",
+            "SUBJECTS": {
+                "SUB1": {
+                    "NAME": "MATH",
+                    "MARKS": "76"
+                },
+                "SUB2": {
+                    "NAME": "ENGLISH",
+                    "MARKS": "82"
+                }
+            }
+        },
+        "STUDENT5": {
+            "NAME": "Eva",
+            "SUBJECTS": {
+                "SUB1": {
+                    "NAME": "MATH",
+                    "MARKS": "95"
+                },
+                "SUB2": {
+                    "NAME": "ENGLISH",
+                    "MARKS": "88"
+                }
+            }
+        },
+        "STUDENT6": {
+            "NAME": "Frank",
+            "SUBJECTS": {
+                "SUB1": {
+                    "NAME": "MATH",
+                    "MARKS": "81"
+                },
+                "SUB2": {
+                    "NAME": "ENGLISH",
+                    "MARKS": "91"
+                }
+            }
+        }
+    }
+}
